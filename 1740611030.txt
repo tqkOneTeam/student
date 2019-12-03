@@ -1,0 +1,2 @@
+Today we learn how to usse git
+Git is a wonderful sofetware for college students.
